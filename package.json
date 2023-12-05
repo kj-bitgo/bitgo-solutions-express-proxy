@@ -2,6 +2,11 @@
   "name": "bitgo-solutions-proxy",
   "version": "1.0.0",
   "description": "Proxy server to route API calls from front end to BitGo Express",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kj-bitgo/bitgo-solutions-express-proxy.git",
+    "directory": "./"
+  },
   "main": "server.ts",
   "scripts": {
     "build": "tsc --project ./",
